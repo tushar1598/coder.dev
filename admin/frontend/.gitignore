@@ -11,6 +11,19 @@ node_modules
 dist
 dist-ssr
 *.local
+public
+
+bun.lockb
+components.json
+eslint.config.js
+package.json
+package-lock.json
+postcss.config.js
+tailwind.config.ts
+tsconfig.app.json
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
 
 # Editor directories and files
 .vscode/*
